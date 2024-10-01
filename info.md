@@ -91,6 +91,9 @@ are the `!mypawn` commands, which allow you see various information about your p
 every command here, but most commands should generally be self-descriptive or have a description of
 what they do on the [commands]({{- "/commands" | relative_url -}}) page.
 
+## Begin commands 
+
+Check ou the [Tutorial]({{- "/tutorial" | relative_url -}}) for some beginner commands  
 
 {%- if puppeteer -%}
 <br/>
