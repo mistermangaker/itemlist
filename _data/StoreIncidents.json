@@ -361,11 +361,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "surgery",
-		"price": 1,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "passionshuffle",
 		"price": 2000,
 		"karmatype": "Neutral"
@@ -436,15 +431,10 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "smite",
-		"price": 2500,
-		"karmatype": "Doom"
-	},
-	{
 		"abr": "sanctuary",
 		"price": 100000,
 		"karmatype": "Good"
 	}
 	],
-	"total": 89
+	"total": 87
 }
