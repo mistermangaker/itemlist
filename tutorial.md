@@ -1,5 +1,5 @@
 ---
-title: tutorial
+title: Tutorial
 layout: page
 permalink: /tutorial
 ---
@@ -45,7 +45,7 @@ Command: reviveme
 Price: 2833  
 
 # Rescue me  
-Creates a quest where your pawn can be rescued by shamia in case you were kidnapped . It's dependent on her actually doing it tho.  
+Creates a quest where your pawn can be rescued by the streamer in case you were kidnapped . It's dependent on her actually doing it tho.  
 Command: rescue  
 Price: 1200  
 
